@@ -10,4 +10,13 @@
 
 @interface trialtwoViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextField *name_field;
+
+@property (weak, nonatomic) IBOutlet UITextField *number_field;
+
+- (IBAction)textFieldDoneEditing:(id)sender;
+
+- (IBAction)backgroundTap:(id)sender;
+
+
 @end

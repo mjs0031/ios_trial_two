@@ -26,4 +26,13 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)textFieldDoneEditing:(id)sender {
+    [sender resignFirstResponder];
+}
+
+- (IBAction)backgroundTap:(id)sender {
+    [self.name_field   resignFirstResponder];
+    [self.number_field resignFirstResponder];
+}
+
 @end

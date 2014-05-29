@@ -21,7 +21,7 @@
 		0EC2E58E19378F7400178817 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0EC2E57019378F7400178817 /* UIKit.framework */; };
 		0EC2E59619378F7400178817 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0EC2E59419378F7400178817 /* InfoPlist.strings */; };
 		0EC2E59819378F7400178817 /* trial_twoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EC2E59719378F7400178817 /* trial_twoTests.m */; };
-		0EC2E5A21937904600178817 /* xmera_png.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EC2E5A11937904600178817 /* xmera_png.png */; };
+		0EC2E5A41937D3E200178817 /* twenty percent.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EC2E5A31937D3E200178817 /* twenty percent.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +54,7 @@
 		0EC2E59319378F7400178817 /* trial_twoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "trial_twoTests-Info.plist"; sourceTree = "<group>"; };
 		0EC2E59519378F7400178817 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0EC2E59719378F7400178817 /* trial_twoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = trial_twoTests.m; sourceTree = "<group>"; };
-		0EC2E5A11937904600178817 /* xmera_png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xmera_png.png; sourceTree = "<group>"; };
+		0EC2E5A31937D3E200178817 /* twenty percent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twenty percent.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,7 +128,7 @@
 		0EC2E57319378F7400178817 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0EC2E5A11937904600178817 /* xmera_png.png */,
+				0EC2E5A31937D3E200178817 /* twenty percent.png */,
 				0EC2E57419378F7400178817 /* trial_two-Info.plist */,
 				0EC2E57519378F7400178817 /* InfoPlist.strings */,
 				0EC2E57819378F7400178817 /* main.m */,
@@ -233,7 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EC2E58519378F7400178817 /* Images.xcassets in Resources */,
-				0EC2E5A21937904600178817 /* xmera_png.png in Resources */,
+				0EC2E5A41937D3E200178817 /* twenty percent.png in Resources */,
 				0EC2E57719378F7400178817 /* InfoPlist.strings in Resources */,
 				0EC2E58019378F7400178817 /* Main.storyboard in Resources */,
 			);
